@@ -21,7 +21,9 @@ Install the required library with:
 pip install forex-python
 ```
 ## ▶️ How to Run
-- Save the script as currency_exchange.py.
+- git clone https://github.com/jadonblaise/Currency_Converter.git
+- cd Currency_Converter
+-  Save the script as currency_exchange.py.
 
 - Run the script:
   python currency_exchange.py
